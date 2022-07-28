@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(330deg, #f20055, transparent) !important;   
+}
+
+h1{
+text-align: center;
+}
+
+form{
+    text-align:center; 
+    margin-top:150px;
+}
+
+
+a button{
+    background-color: #f20055;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    width: 80px;
+    margin-top: 30px;
+}
+
+h3 a{
+    background-color: #f20055;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    height: 26px;
+    margin-top: -17px
+
+    
+}
